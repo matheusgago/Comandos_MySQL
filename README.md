@@ -1,6 +1,6 @@
 # 📋 Relatório: Banco de Dados MySQL
 
-## 1. Gerenciamento de Banco de Dados 
+## 🏭 1. Gerenciamento de Banco de Dados 
 
 Comandos utilizados para iniciar o MySQL, criar, selecionar, consultar, alterar e remover bancos de dados e tabelas:
 
@@ -18,4 +18,6 @@ Comandos utilizados para iniciar o MySQL, criar, selecionar, consultar, alterar 
 | **Listar Bancos** | `SHOW DATABASES;` | Lista todos os bancos de dados existentes no servidor. |
 | **Listar Tabelas** | `SHOW TABLES;` | Lista todas as tabelas do banco de dados selecionado. |
 | **Ver Estrutura da Tabela** | `DESCRIBE tabela;` ou `DESC tabela;` | Mostra a estrutura, colunas e tipos de dados de uma tabela. |
+
+
 
